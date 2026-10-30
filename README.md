@@ -1,2 +1,2 @@
-# bionics
-Biomimicry in Robotics
+# Anatomy of a Droid
+A study of Biomimicry in Robotics
